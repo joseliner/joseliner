@@ -6,7 +6,7 @@ Web Developer
 
 Joseline is a courteous and enthusiastic Front End Web Developer with a passion for continuous learning and creating websites/apps from the ground up. She is a full time web developer with years of experience. In her spare time, she spends time with her family, travels, and enjoys trying new foods.
 
-* 🌍  I'm based in Dallas, TX
+* 🌍  I am based in Fort Worth, TX
 * 🖥️  See my portfolio at [My Portfolio](http:///joselineruiz.com/)
 * ✉️  You can contact me at [joselineruiz917@gmail.com](mailto:joselineruiz917@gmail.com)
 * 🚀  I'm currently working on [Everything React](http://reactjs.org/)
